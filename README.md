@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Hi Ada here! I love pistachios and waking up early.
